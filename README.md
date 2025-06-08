@@ -1,22 +1,5 @@
 ### Hi there, I'm Ji Han 😉
 
-<table>
-  <tr>
-    <th>📊 GitHub Stats</th>
-    <th>🌱 Solved.ac Tier</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=wlgks7460&show_icons=true&theme=cobalt2" alt="JiHan's GitHub stats"/>
-    </td>
-    <td>
-      <a href="https://solved.ac/wlgks7460">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgks7460" alt="Solved.ac Profile"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 # 💪Skills
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
@@ -58,6 +41,26 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+
+
+<table>
+  <tr>
+    <th>📊 GitHub Stats</th>
+    <th>🌱 Solved.ac Tier</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=wlgks7460&show_icons=true&theme=cobalt2" alt="JiHan's GitHub stats"/>
+    </td>
+    <td>
+      <a href="https://solved.ac/wlgks7460">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wlgks7460" alt="Solved.ac Profile"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
