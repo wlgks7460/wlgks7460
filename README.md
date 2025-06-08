@@ -1,6 +1,6 @@
 ### Hi there, I'm Ji Han 😉
 
-# 💪Skills
+# 🔧Skills
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
@@ -43,6 +43,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
+
+# 💪Stats
 
 <table>
   <tr>
